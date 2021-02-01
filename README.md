@@ -1,2 +1,1 @@
-# responsible-imminent-cheddar
-Free Code Camp : Introduction to Information Security with HelmetJS 11/14 Challenges
+# [Introduction to Information Security with HelmetJS Challenges](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/)
